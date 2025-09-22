@@ -1,0 +1,13 @@
+body {
+  background-image: url('images/glitch_2.png');
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Trebuchet MS;
+  font-size: 40px;
+}

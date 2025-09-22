@@ -1,0 +1,13 @@
+ body {
+  background-color: rgba(255, 99, 71, 1);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Trebuchet MS;
+  font-size: 40px;
+}
